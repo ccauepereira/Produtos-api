@@ -1,8 +1,5 @@
 # 🛒 Produtos API
-## Demonstração
-
-![API funcionando]<img src= <img width="1080" height="604" alt="image" src="https://github.com/user-attachments/assets/b0cd7a09-f57b-41d7-a210-df2c33677aef" />
-"
+ <img width="1080" height="604" alt="image" src="https://github.com/user-attachments/assets/b0cd7a09-f57b-41d7-a210-df2c33677aef" />
 
 Minha primeira API REST desenvolvida utilizando C# e ASP.NET Core (.NET 10).
 
