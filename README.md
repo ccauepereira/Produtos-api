@@ -1,5 +1,6 @@
 # 🛒 Produtos API
-<img width="200" height="195" alt="image" src="https://github.com/user-attachments/assets/1a931421-c44c-4a42-abc6-0024952c3aa0" />
+<img width="200" height="195" alt="image" src="https://github.com/user-attachments/assets/1a931421-c44c-4a42-abc6-0024952c3aa0" /> <img width="200" height="179" alt="image" src="https://github.com/user-attachments/assets/7a5e9d1d-1785-43c2-b49a-425f30c95976" />
+
 
 
 Minha primeira API REST desenvolvida utilizando C# e ASP.NET Core (.NET 10).
