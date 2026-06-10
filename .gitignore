@@ -1,0 +1,14 @@
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# Arquivos de usuário
+*.user
+*.suo
+*.DotSettings.user
